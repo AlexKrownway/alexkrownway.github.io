@@ -1,0 +1,186 @@
+@font-face {
+  font-family: "Inter";
+  src: url("Inter-VariableFont_slnt\,wght.ttf")format("ttf");
+}
+
+body {
+    margin: 0;
+    font-size: 18px;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+      Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    font-style: normal;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin: 0;
+    letter-spacing: 0.05em;
+    background-color: black;
+    background: rgb(0,0,0);
+    background: radial-gradient(circle, rgba(0,0,0,1) 10%, rgba(73,116,190,1) 50%, rgba(0,0,0,1) 90%);
+  }
+  
+  * {
+    position: relative;
+    box-sizing: border-box;
+  }
+  
+  .box {
+    width: 1000px;
+    height: 500px;
+    color: black;
+    margin: 0 auto;
+    margin-bottom: 24px;
+  }
+  
+  .box > div {
+    display: flexbox;
+    position: absolute;
+    top: 0;
+    width: 1000px;
+    height: 500px;
+    background: transparent;
+    justify-content: space-between;
+    flex-direction:row;
+    padding: 16px;
+    border-radius: 32px;
+    box-shadow: 0px 1px 10px rgba(255, 255, 255, 0.212);
+    transform-origin: top center;
+    will-change: transform;
+    overflow: hidden;
+  }
+  
+  .content {
+   display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 100%;
+    border-radius: 32px;
+  }
+  
+  .label {
+    font-weight: bold;
+    font-size: 12px;
+    margin-bottom: 6px;
+  }
+  
+  .value-right {
+    text-align: left;
+  }
+/* Solid border */
+hr.solid {
+  border-top: 3px solid #bbb;
+}
+.header {
+  display: flex;
+  padding: 20px;
+  text-align: left;
+  background: transparent;
+  color: white;
+  font-size: 20px;
+}
+.header-center {
+  width: 33%;
+  float: left;
+  padding: 10px;
+  text-align: center;
+  font-size: 14px;
+  /* border: 2px solid red; */
+} 
+.header-left {
+  width: 33%;
+  float: left;
+  padding: 10px;
+  text-align: left;
+  font-size: 14px;
+  /* border: 2px solid red; */
+} 
+
+.header-right {
+  width: 33%;
+  float: left;
+  padding: 10px;
+  text-align: right;
+  /* border: 2px solid red; */
+}
+
+
+
+.footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  padding: 20px;
+  text-align: center;
+  background: transparent;
+  color: white;
+  font-size: 20px;
+}
+.footer-center {
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+  font-size: 14px;
+  /* border: 2px solid red; */
+} 
+.container { position: relative; }
+.container img { display: block; }
+.container .fa-download { position: absolute; bottom:0; left:0; }
+
+
+.media {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-53%,-50%);
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  /* background-color: #333333; */
+}
+li{
+  list-style: none;
+  margin: 50px 15px;
+  display: flex;
+  font-size: 44px;
+  padding: 20px 20px;
+  
+  transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+
+}
+
+li:hover{
+  color: #7a7a7a;
+  /* border:1px solid #292929; */
+  transition: .5s;
+}
+a{
+  color:whitesmoke;
+}
+a:hover{
+  color: #7a7a7a;
+  transition: .5s;
+  
+}
+
+h1{
+  font-family: Gotham;
+  color: whitesmoke;
+  margin: 1px;
+}
+h2{
+  font-family: Gotham;
+  color: whitesmoke;
+}
+h3{
+  font-family: Gotham;
+  color: whitesmoke;
+}
+
+p{
+  text-align: center;
+}
