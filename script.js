@@ -1,8 +1,72 @@
 document.body.innerHTML += `
   <div style="height: 16px"></div>
-`;
+`
 
   document.body.innerHTML += `
+
+
+
+
+  <div class="box"><div>
+    
+      
+  <div style="height: 100%; width: 100%; display: flex;">
+  <div style="display: inline-block;">
+  <iframe src="https://open.spotify.com/embed/album/5DKYcwByM2GO4XNZArBluE?utm_source=generator&theme=0" width="400" height="450" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  </div>
+
+  <div style="display: flex; flex-direction: column; width: 100%; margin-left: 32px; margin-right: 32px;">
+    <div style="height: 100%; text-align: center;">
+      <h1>Music Collection</h1>
+        <h3>A few Commissions/personal works from early June this year !</h3>
+        <h3></h3>
+ 
+    </div>
+
+    <div>
+      <ul>
+        <li style="display: inline;"><a href="https://open.spotify.com/album/5DKYcwByM2GO4XNZArBluE?si=IfH4FefhTPW4EyU7aJPCVQ"><i class="fab fa-spotify"> </i></a></li>
+        <li style="display: inline;"><a href="https://alexkrownway.bandcamp.com/album/music-collection"><i class="fab fa-bandcamp"></i></a></li>
+        <li style="display: inline;"><a href="https://music.apple.com/us/album/music-collection-ep/1583774590"><i class="fab fa-itunes"></i></a></li>
+        <li style="display: inline;"><a href="https://www.youtube.com/watch?v=5cAV86SSBP0"><i class="fab fa-youtube"></i></a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+  </div></div>
+  <div class="box"><div>
+    
+      
+  <div style="height: 100%; width: 100%; display: flex;">
+  <div style="display: inline-block;">
+  <iframe src="https://open.spotify.com/embed/album/5ru0HWM4FGQJYCweSUK5HN?utm_source=generator&theme=0" width="400" height="450" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  </div>
+
+  <div style="display: flex; flex-direction: column; width: 100%; margin-left: 32px; margin-right: 32px;">
+    <div style="height: 100%; text-align: center;">
+      <h1>The Banished Light</h1>
+        <h3>The album commissioned by @Haziq_Heartfelt for his Chapter 1 of</h3>
+        <h3>well, The Banished Light ;)</h3>
+ 
+    </div>
+
+    <div>
+      <ul>
+        <li style="display: inline;"><a href="https://open.spotify.com/album/5ru0HWM4FGQJYCweSUK5HN?si=SKiCcawPRcGXkJE7qGlRAw"><i class="fab fa-spotify"> </i></a></li>
+        <li style="display: inline;"><a href="https://alexkrownway.bandcamp.com/album/the-banished-light-original-soundtrack"><i class="fab fa-bandcamp"></i></a></li>
+        <li style="display: inline;"><a href="https://music.apple.com/us/album/the-banished-light/1583004659"><i class="fab fa-itunes"></i></a></li>
+        <li style="display: inline;"><a href="https://www.youtube.com/watch?v=-0iTk7ReSOE"><i class="fab fa-youtube"></i></a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+  </div></div>
+
+
+
+
     <div class="box"><div>
     
       
@@ -14,7 +78,7 @@ document.body.innerHTML += `
     <div style="display: flex; flex-direction: column; width: 100%; margin-left: 32px; margin-right: 32px;">
       <div style="height: 100%; text-align: center;">
         <h1>The Music of Oricord</h1>
-          <h3>a small dedication to Ori the Game discord server. Made in 2 weeks for 11 spirits</h3>
+          <h3>Truly an Amazing project I had worked on and my first major paybacks to the amazing Ori Discord Community</h3>
    
       </div>
 
