@@ -4,7 +4,35 @@ document.body.innerHTML += `
 
   document.body.innerHTML += `
 
+  <div class="box"><div>
+    
+      
+  <div style="height: 100%; width: 100%; display: flex;">
+  <div style="display: inline-block;">
+  <iframe class="coverart" src="oricord2_450px.png" width="450" height="450" frameborder="0" seamless></iframe>
+  </div>
 
+  <div style="display: flex; flex-direction: column; width: 110%; margin-left: 32px; margin-right: 32px;">
+    <div style="height: 100%; text-align: center;">
+      <h1>The Music of Oricord 2 First Part</h1>
+        <h3>After an astonishing success of The Music Of Oricord, Alex decides to once more give back to the amazing community that is Ori the Game Discord by composing for each spirit in this event a personal musical theme/soundtrack.
+</h3>
+        <h3></h3>
+ 
+    </div>
+
+    <div>
+      <ul>
+        
+        <li style="display: inline;"><a href="https://alexkrownway.bandcamp.com/album/the-music-of-oricord-2-first-part"><i class="fab fa-bandcamp"></i></a></li>
+        
+        <li style="display: inline;"><a href="https://www.youtube.com/watch?v=Y6cwCV-puOg"><i class="fab fa-youtube"></i></a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+  </div></div>
 
 
   <div class="box"><div>
@@ -12,13 +40,13 @@ document.body.innerHTML += `
       
   <div style="height: 100%; width: 100%; display: flex;">
   <div style="display: inline-block;">
-  <iframe src="https://open.spotify.com/embed/album/5DKYcwByM2GO4XNZArBluE?utm_source=generator&theme=0" width="400" height="450" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <iframe class="coverart" src="collection_450px.png" width="450" height="450" frameborder="0" seamless></iframe>
   </div>
 
   <div style="display: flex; flex-direction: column; width: 100%; margin-left: 32px; margin-right: 32px;">
     <div style="height: 100%; text-align: center;">
       <h1>Music Collection</h1>
-        <h3>A few Commissions/personal works from early June this year !</h3>
+        <h3>The Album packed with pieces and commissions from April-June 2021, Made with love</h3>
         <h3></h3>
  
     </div>
@@ -40,7 +68,7 @@ document.body.innerHTML += `
       
   <div style="height: 100%; width: 100%; display: flex;">
   <div style="display: inline-block;">
-  <iframe src="https://open.spotify.com/embed/album/5ru0HWM4FGQJYCweSUK5HN?utm_source=generator&theme=0" width="400" height="450" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <iframe class="coverart" src="banished_450px.png" width="450" height="450" frameborder="0" seamless></iframe>
   </div>
 
   <div style="display: flex; flex-direction: column; width: 100%; margin-left: 32px; margin-right: 32px;">
@@ -72,7 +100,7 @@ document.body.innerHTML += `
       
     <div style="height: 100%; width: 100%; display: flex;">
     <div style="display: inline-block;">
-    <iframe src="https://open.spotify.com/embed/album/7rCNxdub0WyrWr3d2k202w" width="400" height="450" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+    <iframe class="coverart" src="oricord_450px.png" width="450" height="450" frameborder="0" seamless></iframe>
     </div>
 
     <div style="display: flex; flex-direction: column; width: 100%; margin-left: 32px; margin-right: 32px;">
@@ -106,7 +134,7 @@ document.body.innerHTML += `
     
   <div style="height: 100%; width: 100%; display: flex;">
   <div style="display: inline-block;">
-  <iframe src="https://open.spotify.com/embed/album/1UP1E8lsAvvT2rNm63vyUH" width="400" height="450" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <iframe class="coverart" src="assymetry_450px.png" width="450" height="450" frameborder="0" seamless></iframe>
   </div>
 
   <div style="display: flex; flex-direction: column; width: 100%; margin-left: 32px; margin-right: 32px;">
@@ -137,7 +165,7 @@ document.body.innerHTML += `
     
 <div style="height: 100%; width: 100%; display: flex;">
 <div style="display: inline-block;">
-<iframe src="https://open.spotify.com/embed/album/4kUcQMFnlsxPI5r2FyajEb" width="400" height="450" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe class="coverart" src="Divinest_450px.png" width="450" height="450" frameborder="0" seamless></iframe>
 </div>
 
 <div style="display: flex; flex-direction: column; width: 100%; margin-left: 32px; margin-right: 32px;">
